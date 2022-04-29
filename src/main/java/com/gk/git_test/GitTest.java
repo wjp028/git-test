@@ -7,5 +7,8 @@ public class GitTest {
 
         System.out.println("2");
         System.out.println("hot-test");
+
+        System.out.println("push test");
+
     }
 }
